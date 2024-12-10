@@ -9,7 +9,19 @@ This project generates random BIP-39 mnemonic phrases, derives wallet addresses 
 - **Symmetrical Search**: Avoids re-testing previously "not found" seed phrases.
 - **Seed Phrase Management**: Stores "not found" seed phrases and those with suspicious transaction histories for future reference.
 
+## Dependencies: 
+mnemonic
+bip32utils
+requests
+```console 
+pip install mnemonic bip32utils requests
+```
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```console
+   git clone https://github.com/NabooJarJar/Symmetrical-Search-for-Bitcoin-Mnemonics.git
+   ```
+   ```console
+   python symmetrical_search.py
+   ```
