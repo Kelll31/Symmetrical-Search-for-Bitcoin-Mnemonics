@@ -26,7 +26,7 @@ pip install mnemonic bip32utils requests
    python symmetrical_search.py
    ```
 
-## EXAMPLE SUCCESFULL OUTPUT
+## EXAMPLE SUCCESSFULL OUTPUT
 ```code
 Starting symmetrical search...
 Testing mnemonic #1: pie viper depth elderly pigeon flood woman light diamond business wave dawn
@@ -54,3 +54,5 @@ No balance found for mnemonic: school universe door closet slice regular hope wh
 Seeds with suspected transaction history:
 ['pie viper depth elderly pigeon flood woman light diamond business wave dawn', 'school universe door closet slice regular hope wheel tax moon hammer', ...]
 ```
+
+## Feel free to fork my project !
