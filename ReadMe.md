@@ -25,3 +25,32 @@ pip install mnemonic bip32utils requests
    ```console
    python symmetrical_search.py
    ```
+
+## EXAMPLE SUCCESFULL OUTPUT
+```code
+Starting symmetrical search...
+Testing mnemonic #1: pie viper depth elderly pigeon flood woman light diamond business wave dawn
+Checking address 1/10: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+  - Balance: 0 satoshis, Transactions: 3
+--------------------------------------------------
+Checking address 2/10: 1J15VeDHFyHrQ9Q1msQ2tD8HLX3ZLnkJh
+  - Balance: 0 satoshis, Transactions: 1
+--------------------------------------------------
+No balance found for mnemonic: pie viper depth elderly pigeon flood woman light diamond business wave dawn. Adding to not_found_seeds.
+--------------------------------------------------
+Testing mnemonic #2: school universe door closet slice regular hope wheel tax moon hammer
+Checking address 1/10: 1LqJ8ZGq9v2k5P3t6hH5vPwnFwUnm5eb9R
+  - Balance: 50000 satoshis, Transactions: 2
+Address: 1LqJ8ZGq9v2k5P3t6hH5vPwnFwUnm5eb9R, Balance: 50000 satoshis, Transactions: 2
+--------------------------------------------------
+Address: 1DfFcNz2pkA5JvZB6DhaUHeivVSh3T2q15, Balance: 0 satoshis, Transactions: 0
+--------------------------------------------------
+Address: 1DdBZ3jkhpvXg7TuV1GyMiW2R61gHj7tV9, Balance: 0 satoshis, Transactions: 0
+--------------------------------------------------
+No balance found for mnemonic: school universe door closet slice regular hope wheel tax moon hammer. Adding to not_found_seeds.
+--------------------------------------------------
+...
+
+Seeds with suspected transaction history:
+['pie viper depth elderly pigeon flood woman light diamond business wave dawn', 'school universe door closet slice regular hope wheel tax moon hammer', ...]
+```
