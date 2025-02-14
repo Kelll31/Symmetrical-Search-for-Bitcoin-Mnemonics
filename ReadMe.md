@@ -1,10 +1,7 @@
-Вот обновленный `README.md` с русской и английской версиями:
-
 ---
-
+[![Kelll31 profile views](https://u8views.com/api/v1/github/profiles/46720761/views/day-week-month-total-count.svg)](https://u8views.com/github/Kelll31)
 # Symmetrical Search for Bitcoin Mnemonics
 
-[![Kelll31 profile views](https://u8views.com/api/v1/github/profiles/46720761/views/day-week-month-total-count.svg)](https://u8views.com/github/Kelll31)
 
 This project generates random BIP-39 mnemonic phrases, derives wallet addresses using BIP-32, and checks the balance and transaction history of these addresses. The goal is to search for wallets that have transactions or non-zero balances. This script can be useful for finding active Bitcoin wallets associated with randomly generated seed phrases.
 
@@ -12,7 +9,6 @@ This project generates random BIP-39 mnemonic phrases, derives wallet addresses 
 
 # Симметричный поиск Bitcoin мнемоник
 
-[![Kelll31 profile views](https://u8views.com/api/v1/github/profiles/46720761/views/day-week-month-total-count.svg)](https://u8views.com/github/Kelll31)
 
 Этот проект генерирует случайные мнемонические фразы BIP-39, создает адреса кошельков с использованием BIP-32 и проверяет баланс и историю транзакций этих адресов. Цель — найти кошельки с транзакциями или ненулевым балансом. Этот скрипт может быть полезен для поиска активных Bitcoin-кошельков, связанных со случайно сгенерированными seed-фразами.
 
@@ -97,5 +93,3 @@ Seeds with suspected transaction history:
 ## Feel free to fork my project! / Не стесняйтесь форкать мой проект!
 
 ---
-
-Теперь `README.md` содержит как английскую, так и русскую версии, что делает его удобным для пользователей из разных стран.
