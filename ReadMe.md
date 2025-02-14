@@ -1,10 +1,13 @@
-Вот обновленный `README.md` с русской и английской версиями:
 
 ---
 
 # Symmetrical Search for Bitcoin Mnemonics
 
 [![NabooJarJar profile views](https://u8views.com/api/v1/github/profiles/190960181/views/day-week-month-total-count.svg)](https://u8views.com/github/NabooJarJar)
+---
+[![Kelll31 profile views](https://u8views.com/api/v1/github/profiles/46720761/views/day-week-month-total-count.svg)](https://u8views.com/github/Kelll31)
+# Symmetrical Search for Bitcoin Mnemonics
+
 
 This project generates random BIP-39 mnemonic phrases, derives wallet addresses using BIP-32, and checks the balance and transaction history of these addresses. The goal is to search for wallets that have transactions or non-zero balances. This script can be useful for finding active Bitcoin wallets associated with randomly generated seed phrases.
 
@@ -97,5 +100,3 @@ Seeds with suspected transaction history:
 ## Feel free to fork my project! / Не стесняйтесь форкать мой проект!
 
 ---
-
-Теперь `README.md` содержит как английскую, так и русскую версии, что делает его удобным для пользователей из разных стран.
