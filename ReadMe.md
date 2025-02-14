@@ -2,11 +2,10 @@
 ---
 
 # Symmetrical Search for Bitcoin Mnemonics
+---
 NabooJarJar
 [![NabooJarJar profile views](https://u8views.com/api/v1/github/profiles/190960181/views/day-week-month-total-count.svg)](https://u8views.com/github/NabooJarJar)
 ---
-
-# Symmetrical Search for Bitcoin Mnemonics
 Kelll31
 [![Kelll31 profile views](https://u8views.com/api/v1/github/profiles/46720761/views/day-week-month-total-count.svg)](https://u8views.com/github/Kelll31)
 ---
